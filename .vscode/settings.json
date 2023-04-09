@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
